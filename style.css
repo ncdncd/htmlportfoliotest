@@ -1,0 +1,147 @@
+h2{
+    font-weight: normal;
+}
+
+.heads{
+    border: 1px darkgrey;
+    background-color: darkgrey;
+    text-align: center;
+    padding: 140px 20px;
+    width: 20%;
+}
+
+.profile{
+    border: 1px tomato;
+    background-color: tomato;
+    text-align: right;
+    padding: 180px 0px 180px 705px;
+    width: 20%;
+    position: fixed;
+    top: 8px;
+    left: 300px;
+}
+
+.profile2{
+    border: 1px palegoldenrod;
+    background-color: palegoldenrod;
+    text-align: right;
+    padding: 180px 0px 170px 705px;
+    width: 20%;
+    position: fixed;
+    top: 370px;
+    left: 300px;
+}
+
+.image1{
+    width: 250px;
+    height: auto;
+    border-radius: 50%;
+}
+.imagesign{
+    width: 250px;
+    height: auto;
+    background-color: transparent;
+    position: absolute;
+    left: 7px;
+    top: 350px
+}
+
+.whitetext{
+    color: white;
+    font-family: 'Comfortaa', cursive;
+}
+
+.circle1{
+    width: 210px;
+    height: 210px;
+    border-radius: 50%;
+    background-color: rgb(132, 53, 8);
+    display: flex;
+    align-items: center;
+    text-align: center;
+    position: fixed;
+    left: 360px;
+    top: 140px;
+    color: palegoldenrod;
+    font-family: 'Comfortaa', cursive;
+    box-shadow: 10px 10px maroon;
+}
+
+.circle2{
+    width: 210px;
+    height: 210px;
+    border-radius: 50%;
+    background-color: rgb(132, 53, 8);
+    display: flex;
+    align-items: center;
+    text-align: center;
+    position: fixed;
+    left: 560px;
+    top: 20px;
+    color: palegoldenrod;
+    font-family: 'Comfortaa', cursive;
+    box-shadow: 10px 10px maroon;
+}
+
+.circle3{
+    width: 210px;
+    height: 210px;
+    border-radius: 50%;
+    background-color: rgb(132, 53, 8);
+    display: flex;
+    align-items: center;
+    text-align: center;
+    position: fixed;
+    left: 790px;
+    top: 20px;
+    color: palegoldenrod;
+    font-family: 'Comfortaa', cursive;
+    box-shadow: 10px 10px maroon;
+}
+
+.circle4{
+    width: 210px;
+    height: 210px;
+    border-radius: 50%;
+    background-color: rgb(132, 53, 8);
+    display: flex;
+    align-items: center;
+    text-align: center;
+    position: fixed;
+    left: 990px;
+    top: 140px;
+    color: palegoldenrod;
+    font-family: 'Comfortaa', cursive;
+    box-shadow: 10px 10px maroon;
+}
+
+.saucefont{
+    color: palegoldenrod;
+    font-family: 'Comfortaa', cursive;
+    font-weight: bold;
+    position: absolute;
+    left: 320px;
+    top: 215px;
+    font-size: 65px;
+}
+
+.spagfont{
+    color: tomato;
+    font-family: 'Comfortaa', cursive;
+    font-weight: bold;
+    position: absolute;
+    left: 320px;
+    top: 0px;
+    font-size: 65px;
+}
+
+.spagfont2{
+    color: tomato;
+    font-family: 'Comfortaa', cursive;
+    font-weight: bold;
+    position: absolute;
+    left: 15px;
+    top: 120px;
+    font-size: 25px;
+    text-align: center
+}
